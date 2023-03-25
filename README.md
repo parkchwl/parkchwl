@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="file:///Users/parkchwl/Downloads/intellijidea.svg" target="_blank"><img src="https://img.shields.io/badge/#000000?style=for-the-badge&logoColor=#000000"/></a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkchwl&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkchwl&show_icons=true&theme=dark)
