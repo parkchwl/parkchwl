@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&text=parkchwl)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=parkchwl)
 
 <!--
 **parkchwl/parkchwl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
