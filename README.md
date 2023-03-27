@@ -18,10 +18,27 @@ Here are some ideas to get you started:
 -->
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=Spring&logoColor=white"/> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkchwl&layout=compact)](https://github.com/parkchwl/github-readme-stats)
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkchwl)](https://solved.ac/parkchwl)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkchwl&show_icons=true&theme=swift) 
-  
 </div>
+
+
+<table>
+    <thead>
+        <tr>
+            <th border="none">
+                <a href="https://github.com/parkchwl/github-readme-stats">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api?username=parkchwl&show_icons=true&theme=default&hide_border=true&layout=compact"/>
+                    </a>
+            </th>
+            <th border="none">
+                <a href="https://solved.ac/parkchwl">
+                    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=parkchwl" alt="Solved.ac 프로필">
+                </a>    
+                </a>
+            </th>
+            <th border="none">
+                <a href="https://github.com/parkchwl/github-readme-stats">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkchwl&layout=compact&theme=default&hide_border=true"/>
+            </th>
+        </tr>
+    </thead>
+</table>
