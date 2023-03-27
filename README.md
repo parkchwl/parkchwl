@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> 
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=Spring&logoColor=white"/> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkchwl&layout=compact)](https://github.com/parkchwl/github-readme-stats)
 
