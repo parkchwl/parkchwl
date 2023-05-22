@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/C-#A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-#00599C?style=for-the-badge&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=Spring&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=Spring&logoColor=white"/> 
 
 </div>
 
