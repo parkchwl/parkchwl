@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=parkchwl&fontSize=30&fontAlignY=40&fontAlign=8&height=210)
 
-안녕하세요! 백엔드를 열심히 공부하고 있는 박철우라고 합니다.<div>
+안녕하세요 ! <div> 개발자의 길을 꿈꾸며 백엔드 분야를 열심히 공부하고 있는 박철우라고 합니다.<div>
 현재 고려대학교 세종캠퍼스에서 컴퓨터융합소프트웨어학과를 전공하고 있습니다.
 <div>
 ㅤㅤ
