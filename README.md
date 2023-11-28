@@ -1,12 +1,26 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=parkchwl&fontSize=30&fontAlignY=40&fontAlign=8&height=210)
+[^1]: ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=parkchwl&fontSize=30&fontAlignY=40&fontAlign=8&height=210)<div>
 
-안녕하세요 ! <div> 개발자의 길을 꿈꾸며 백엔드 분야를 열심히 공부하고 있는 박철우라고 합니다.<div>
-현재 고려대학교 세종캠퍼스에서 컴퓨터융합소프트웨어학과를 전공하고 있습니다.
-<div>
+## Hello 👋🏻 <div>
+
+I'm Park Chulwoo who is interested in Backend development.<div>
+I am majoring in Computer Convergence Software at Korea University Sejong Campus.
+
+
+Dreaming of becoming a passionate developer, I'm exploring every day.
 ㅤㅤ
 	ㅤ
 	ㅤ
 </div>
+<div>
+ㅤ
+	ㅤ
+	ㅤ
+ㅤ
+
+</div>
+
+
+
 
 
 ## 🧑🏻‍💻 Most Use 🧑🏻‍💻
@@ -50,8 +64,8 @@
     <!-- Tools -->
     <p><strong>Tools</strong></p>
     <div>
-	      <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-            <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+	      <img src="https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=white">
+            <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white">
 	    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 	         <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=DataGrip&logoColor=white">	    
 	    <div>
