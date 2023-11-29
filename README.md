@@ -53,19 +53,20 @@ Dreaming of becoming a passionate developer, I'm exploring every day.
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
-      <img src="https://img.shields.io/badge/C-F80000?style=for-the-badge&logo=C&logoColor=white">
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
       <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
               <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <div>
 	    <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 	    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 	    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+		<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">
             </div>
     <!-- Tools -->
     <p><strong>Tools</strong></p>
     <div>
-	      <img src="https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=white">
-            <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white">
+	      <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+            <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 	    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 	         <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=DataGrip&logoColor=white">	    
 	    <div>
