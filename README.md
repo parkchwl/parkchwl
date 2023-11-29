@@ -2,7 +2,7 @@
 
 ## Hello 👋🏻 <div>
 
-I'm Park Chulwoo who is interested in Backend development.<div>
+I'm Chulwoo Park who is interested in Backend development.<div>
 I am majoring in Computer Convergence Software at Korea University Sejong Campus.
 
 
