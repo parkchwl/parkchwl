@@ -7,8 +7,6 @@ I am majoring in Computer Convergence Software at Korea University Sejong Campus
 
 
 Dreaming of becoming a passionate developer, I'm exploring every day.
-ㅤㅤ
-	ㅤ
 	ㅤ
 </div>
 <div>
@@ -18,10 +16,6 @@ Dreaming of becoming a passionate developer, I'm exploring every day.
 ㅤ
 
 </div>
-
-
-
-
 
 ## 🧑🏻‍💻 Most Use 🧑🏻‍💻
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -97,4 +91,3 @@ Dreaming of becoming a passionate developer, I'm exploring every day.
 </table>
     </div><br>
 </div>
-
