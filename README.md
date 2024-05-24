@@ -71,16 +71,6 @@ Dreaming of becoming a passionate developer, I'm exploring every day.
 <br>
 <table>
     <thead>
-        <tr>
-            <th border="none">
-                <a href="https://solved.ac/parkchwl">
-                    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=parkchwl" alt="Solved.ac 프로필">
-			 </th>
-			 <th border="none">
-                <a href="https://github.com/anuraghazra/github-readme-stats">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api?username=parkchwl&show_icons=true&theme=github_dark&hide_border=true&layout=compact"/>
-                </a>
-            </th>
             <th border="none">
                 <a href="https://github.com/anuraghazra/github-readme-stats">
                     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkchwl&layout=compact&theme=github_dark&hide_border=true"/>
