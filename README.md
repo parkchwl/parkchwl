@@ -10,13 +10,6 @@ Dreaming of becoming a passionate developer, I'm exploring every day.
 	ㅤ
 </div>
 <div>
-ㅤ
-	ㅤ
-	ㅤ
-	
-ㅤ
-
-
 </div>
 
 ## 🧑🏻‍💻 Most Use 🧑🏻‍💻
