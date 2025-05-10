@@ -18,9 +18,7 @@ Dreaming of becoming a passionate developer, I'm exploring every day.
     <p><strong>Backend</strong></p>
     <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-	    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
 	    	    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-	    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 		    
 						
 
@@ -40,7 +38,6 @@ Dreaming of becoming a passionate developer, I'm exploring every day.
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
 	    	<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
     </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
@@ -59,9 +56,6 @@ Dreaming of becoming a passionate developer, I'm exploring every day.
     <div>
 	      <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
             <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-	    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
-	         <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=DataGrip&logoColor=white">	    
-					<img src="https://img.shields.io/badge/Android Studio-000000?style=for-the-badge&logo=Android Studio&logoColor=white">	    
 	    <div>
 	    </div>
 	    <div>
